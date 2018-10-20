@@ -4,7 +4,7 @@
 {
     'name': 'cap_calendar',
     'author': 'captivea-jpa',
-    'version': '0.1',
+    'version': '0.2',
     'description': """
     Manage calendar module for testing odoo.sh.
     """,
